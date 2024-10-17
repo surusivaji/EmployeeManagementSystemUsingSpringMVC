@@ -1,0 +1,63 @@
+h1 {
+	text-align: center;
+	font-size: 40px;
+	color: #FE0000;
+	font-weight: 900;
+	text-transform: uppercase;
+	margin: 15px;
+	text-shadow: 1px 2px #1F1717;
+	word-spacing: 8px;
+	letter-spacing: 1px;
+}
+
+table {
+	width: 98%;
+	font-size: 15px;
+	border-collapse: collapse;
+	margin: 5px auto 0px auto;
+	border: 1px solid black;
+	background: #fff;
+}
+
+tr th {
+	height: 50px;
+	background: #1D24CA;
+	color: #fff;
+	font-weight: 400;
+	font-size: 18px;
+	word-spacing: 5px;
+}
+
+tr td {
+	height: 48px;
+	padding-left: 15px;
+}
+
+#update,
+#delete {
+	height: 35px;
+	width: 100px;
+	font-weight: 500;
+	color: #fff;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+
+#update {
+	background: #06D001;
+	transition: all 2s ease;
+}
+
+#update:hover {
+	background: #367E18;
+}
+
+#delete {
+	background: #FE0000;
+	transition: all 2s ease;
+}
+
+#delete:hover {
+	background: #E40017;
+}
