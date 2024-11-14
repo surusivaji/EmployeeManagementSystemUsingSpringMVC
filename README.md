@@ -18,3 +18,6 @@
   <li><b>Display Employee: </b> List all employees in the system. </li>
   <li><b>Delete Employee: </b> Removes an employee's record from the database</li>
 </ul>
+<hr>
+<h2 align="center">Screenshoots</h2>
+
