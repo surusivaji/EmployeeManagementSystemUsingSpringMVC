@@ -19,5 +19,31 @@
   <li><b>Delete Employee: </b> Removes an employee's record from the database</li>
 </ul>
 <hr>
-<h2 align="center">Screenshoots</h2>
+<h2 align="center">📷 Screenshots</h2>
+<div align="center">
+  <div>
+    <img src="index.png" alt="Index Page" width="70%">
+    <p>Index Page</p>
+  </div>
+
+  <div>
+    <img src="displayemployees.png" alt="Display Employees" width="70%">
+    <p>Display Employees</p>
+  </div>
+
+   <div>
+    <img src="addemployee.png" alt="add employee" width="70%">
+    <p>Add Employee</p>
+  </div>
+
+  <div>
+    <img src="updateemployee.png" alt="update employee" width="70%">
+    <p>Update Employee</p>
+  </div>
+
+   <div>
+    <img src="displayemployee.png" alt="delete employee" width="70%">
+    <p>Delete Employee</p>
+  </div>
+  
 
